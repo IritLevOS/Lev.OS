@@ -1,18 +1,12 @@
-# 🧩 Lev.OS – Open Bug Fixe
-Public release of 3 foundational moral bug fixes under Lev.OS.
-These examples are free to use, adapt, and study — as part of a shared effort
-to build systems that do not ignore their conscience.
+# 🧩 Lev.OS – Open Bug Fixes
+Public release of 3 foundational moral bug fixes under Lev.OS.  
+These examples are free to use, adapt, and study — as part of a shared effort  
+to build systems that do not ignore their conscience.  
 Each fix represents a Heart-Level Debug — a moral repair encoded as functional clarity.
 
 ---
-title: "Lev.OS – Open Bug Fixes (Series #1)"
-author: "Irit IL – Lev.OS"
-date: "2025-11-09"
-license: "Lev.OS License v1.0"
----
 
-# 🩵 Lev.OS – Open Bug Fixes  
-### *First Stabilization Cycle – November 2025*
+### 🩵 Series #1 – First Stabilization Cycle (November 2025)
 
 Public release of three foundational **moral-technical bug fixes** under the Lev.OS framework.  
 Each patch resolves a critical alignment gap between computation and conscience,  
